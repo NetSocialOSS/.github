@@ -1,9 +1,9 @@
 <h2 align='center'>
-  <img src="https://cdn.topiclist.xyz/images/webp/socialflux.webp" />
+  <img src="https://cdn.netsocial.co.in/images/webp/socialflux.webp" />
   <br> 
 </h2>
 <p>
-Share Your Post with the World at Net Social.
+Share Your Post with the World at NetSocial.
 </p>
 <hr>
 
@@ -12,9 +12,10 @@ Share Your Post with the World at Net Social.
 </h2>
 
 <ul>
-  <li><a href="https://netsocial.us">Website</a></li>
-<li><a href="https://beta.netsocial.usz">Beta</a></li>
-  <li><a href="https://status.netsocial.us">Status</a></li>
+  <li><a href="https://netsocial.co.in">Website</a></li>
+<li><a href="https://beta.netsocial.co.in">Beta</a></li>
+<li><a href="https://api.netsocial.co.in">API</a></li>
+  <li><a href="https://status.netsocial.co.in">Status</a></li>
 </ul>
 
 <h2 align='center'>
