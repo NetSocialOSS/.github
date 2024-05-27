@@ -1,5 +1,5 @@
 <h2 align='center'>
-  <img src="https://cdn.topiclis.xyz/images/webp/socialflux.webp" />
+  <img src="https://cdn.netsocial.app/images/webp/socialflux.webp" />
   <br> 
 </h2>
 <p>
