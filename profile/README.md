@@ -1,5 +1,5 @@
 <h2 align='center'>
-  <img src="https://cdn.netsocial.app/images/webp/socialflux.webp" />
+  <img src="https://cdn.netsocial.app/images/png/NetSocialBanner.png" />
   <br> 
 </h2>
 <p>
