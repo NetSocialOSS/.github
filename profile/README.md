@@ -1,5 +1,5 @@
 <h2 align='center'>
-  <img src="https://cdn.netsocial.app/images/png/NetSocialBanner.png" />
+  <img src="https://cdn.netsocial.app/images/png/netsocial-banner.png" />
   <br> 
 </h2>
 <p>
