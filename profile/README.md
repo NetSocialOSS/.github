@@ -1,5 +1,5 @@
 <h2 align='center'>
-  <img src="https://cdn.netsocial.app/images/png/netsocial-banner.png" height='300px' width='1000px' />
+  <img src="https://cdn.discordapp.com/attachments/921791342491881492/1247032116542308425/4D76EDEE-693C-4433-A26B-43F1B1363A15.png?ex=665e8ca9&is=665d3b29&hm=fac4efa7b807c868986ae866c75762e068af68f69777047bb87fb58e592ef817&" />
   <br> 
 </h2>
 <p>
