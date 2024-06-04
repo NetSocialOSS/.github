@@ -15,6 +15,7 @@ Connect, Share, Grow.
   <li><a href="https://netsocial.app">Website</a></li>
 <li><a href="https://beta.netsocial.app">Beta</a></li>
 <li><a href="https://api.netsocial.app">API</a></li>
+<li><a href="https://docs.netsocial.app">API</a></li>
   <li><a href="https://status.netsocial.app">Status</a></li>
 </ul>
 
