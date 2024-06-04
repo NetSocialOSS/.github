@@ -3,7 +3,7 @@
   <br> 
 </h2>
 <p>
-Share Your Post with the World at NetSocial.
+Connect, Share, Grow.
 </p>
 <hr>
 
@@ -19,7 +19,7 @@ Share Your Post with the World at NetSocial.
 </ul>
 
 <h2 align='center'>
- Technologies Language We Use
+ Technologies We Use
 <img src="https://skillicons.dev/icons?i=github,git,cloudflare,go,nodejs,react,nextjs,tailwind,mongodb,ts,vercel&theme=dark" />
 </div>
 </h2>
