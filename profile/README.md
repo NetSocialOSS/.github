@@ -23,6 +23,6 @@ Connect, Share, Grow.
 
 <h2 align='center'>
  Technologies We Use
-<img src="https://skillicons.dev/icons?i=github,git,cloudflare,go,nodejs,react,nextjs,tailwind,mongodb,ts,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,git,cloudflare,go,nodejs,react,nextjs,tailwind,mongodb,mysql,ts,vercel&theme=dark" />
 </div>
 </h2>
