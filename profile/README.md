@@ -1,5 +1,5 @@
 <h2 align='center'>
-  <img src="https://ucarecdn.com/bb6b11fb-a451-48b8-9b5f-1d8c863857f0" />
+  <img src=https://github.com/user-attachments/assets/a89b7dca-de11-4cb7-a1e2-d560f299ef5" />
   <br> 
 </h2>
 <p>
