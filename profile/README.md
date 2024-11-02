@@ -1,5 +1,5 @@
 <h2 align='center'>
-  <img src=https://github.com/user-attachments/assets/a89b7dca-de11-4cb7-a1e2-d560f299ef5" />
+  <img src="https://pbs.twimg.com/profile_banners/1800787842827780096/1730511576/1500x500" />
   <br> 
 </h2>
 <p>
